@@ -44,3 +44,13 @@ body{
   border-radius: 5px;
   font-size: 15px;
 }
+.edit{
+  background-color: rgba(50, 199, 249, 0.966);
+  border-radius: 5px;
+  font-size: 15px;
+}
+.add{
+  background-color: rgba(50, 199, 249, 0.966);
+  border-radius: 5px;
+  font-size: 15px;
+}

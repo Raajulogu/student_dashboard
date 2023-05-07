@@ -48,7 +48,7 @@ function Addstudent({students,setstudents}){
             value={qualification}
             onChange={(e)=>setqualification(e.target.value)}
             /> 
-            <button onClick={()=>add()}>Add</button>
+            <button className="add" onClick={()=>add()}>Add</button>
         </div>
         </Base>
     );

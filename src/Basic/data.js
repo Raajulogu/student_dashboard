@@ -17,6 +17,22 @@ let data=[{name:"RajeshKumar",
             {name:"Soosana",
             batch:"B45WD",
             gender:"Female",
-            qualification:"BBA"}]
+            qualification:"BBA"},
+            {name:"Raghul",
+            batch:"B45WD",
+            gender:"Male",
+            qualification:"BCA"},
+            {name:"Ratnamani",
+            batch:"B45WD",
+            gender:"Female",
+            qualification:"BSC"},
+            {name:"Vishnu",
+            batch:"B45WD",
+            gender:"Male",
+            qualification:"BBA"},
+            {name:"Porko",
+            batch:"B45WD",
+            gender:"Male",
+            qualification:"B.Tech"}]
             
 export default data;

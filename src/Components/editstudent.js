@@ -60,7 +60,7 @@ function Editstudent({students,setstudents}){
             value={qualification}
             onChange={(e)=>setqualification(e.target.value)}
             /> 
-            <button onClick={()=>update()}>Update</button>
+            <button className="edit" onClick={()=>update()}>Update</button>
         </div>
         </Base>
     );
